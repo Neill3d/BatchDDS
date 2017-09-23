@@ -1,0 +1,19 @@
+
+/**
+*	Batch DDS Tool.
+
+// Licensed under the "New" BSD License. 
+//		License page - https://github.com/Neill3d/BatchDDS/blob/master/LICENSE
+
+	GitHub repo - https://github.com/Neill3d/BatchDDS
+
+	Author Sergey Solokhin (Neill3d)
+	 e-mail to: s@neill3d.com
+	  www.neill3d.com
+
+*/
+
+LOG
+
+02.04.2015
+ * first UI prototype
