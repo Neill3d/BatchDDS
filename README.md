@@ -1,7 +1,7 @@
 # BatchDDS
 Do a batch convertion into a DDS image format
 
-
+![screenshot](https://github.com/Neill3d/BatchDDS/blob/master/Images/BatchDDS.jpg)
 
 ### Dependencies
 
