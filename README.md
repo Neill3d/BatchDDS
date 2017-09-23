@@ -5,8 +5,9 @@ Do a batch convertion into a DDS image format
 
 ### Dependencies
 
-Convertion is managed by using nvidia texture tools
-https://github.com/castano/nvidia-texture-tools
+* Qt 4x or 5x
+* Fbx SDK
+* Convertion is managed by using nvidia texture tools https://github.com/castano/nvidia-texture-tools
 
 
 ### Contact
